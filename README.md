@@ -5,6 +5,8 @@ The OSR-FPGA hardware security evaluation board is a development and evaluation 
 
 The core of the OSR-FPGA evaluation board is the XC7A100T chip. The board carries an FT232 chip, so a single USB cable is enough for both power supply and communication, greatly simplifying the effort of setting up the environment.
 
+> **You can purchase the OSR-FPGA-A7100T board from the [OSR Lab Store](https://www.aliexpress.com/store/1105844326) on AliExpress.**
+
 The main specifications of the OSR-FPGA evaluation board are listed in the table below:
 
 | Processor | XC7A100T-2FGG484C |
