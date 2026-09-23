@@ -1,0 +1,66 @@
+# =========================
+# Vivado Project Artifacts
+# =========================
+
+# Vivado generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+
+# Xilinx temp files
+.Xil/
+
+# Vivado log and journal files
+*.jou
+*.log
+
+# Vivado backup files
+*.backup.*
+*.xpr.user_*
+
+# Bitstream and checkpoint files
+*.bit
+*.ltx
+*.mmi
+*.dcp
+
+# Vivado report files
+*.rpt
+*.rdi
+
+# WebTalk data
+webtalk*/
+usage_statistics_webtalk.*
+
+# Hardware manager
+*.lpr
+
+# NA project
+na_project/
+hd_visual/
+
+# =========================
+# General
+# =========================
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build and Release Folders
+bin-debug/
+bin-release/
+[Oo]bj/
+[Bb]in/
+
+# IDE settings
+.settings/
+
+# Executables
+*.swf
+*.air
+*.ipa
+*.apk
